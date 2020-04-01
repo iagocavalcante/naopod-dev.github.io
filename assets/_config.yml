@@ -70,12 +70,6 @@ theme: jekyll-bootflat
 ### (but you will loose auto regeneration after code changes with a text editor then)
 plugins:
   - jekyll-octopod
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
   - jekyll-podigee-podcast-player
 #  - jekyll-admin
 
