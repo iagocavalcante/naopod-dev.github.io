@@ -107,7 +107,7 @@ def ask(message, valid_options = nil)
   answer
 end
 
-def get_stdin(message)
+def get_stdin(message='Y')
   print message
   STDIN.gets.chomp
 end
