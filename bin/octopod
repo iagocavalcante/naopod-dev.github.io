@@ -73,16 +73,18 @@ def ok_failed(condition)
   end
 end
 
-def write_file?(filename)
-  if File.exists?(filename)
-    unless ["Y","N"].include?(@answer)
-      puts ""
-      @answer = ask("File '#{filename}' already exists. Overwrite? Capitalized answer for ALL files.", ['y', 'Y', 'n', 'N'])
-    end
-    ["Y", "y"].include?(@answer)
-  else
-    true
-  end
+def write_file?(_filename)
+  # if File.exists?(filename)
+  #   unless ["Y","N"].include?(@answer)
+  #     puts ""
+  #     @answer = ask("File '#{filename}' already exists. Overwrite? Capitalized answer for ALL files.", ['y', 'Y', 'n', 'N'])
+  #   end
+  #   ["Y", "y"].include?(@answer)
+  # else
+  #   true
+  # end
+
+  true
 end
 
 def copy_file_or_create_dir(file)
