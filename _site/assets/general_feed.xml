@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>Octopod</title>
-  <link href="https://napodev.iagocavalcante.dev/general_feed.xml" rel="self"/>
-  <link href="https://napodev.iagocavalcante.dev"/>
-  <updated>2020-04-02T00:43:37-03:00</updated>
-  <id>https://napodev.iagocavalcante.dev/</id>
+  <link href="https://naopodev.iagocavalcante.dev/general_feed.xml" rel="self"/>
+  <link href="https://naopodev.iagocavalcante.dev"/>
+  <updated>2020-04-02T01:06:16-03:00</updated>
+  <id>https://naopodev.iagocavalcante.dev/</id>
   <author>
     <name>Uncle Octopod</name>
     <email>octopod@example.com</email>
@@ -14,19 +14,19 @@
   
     <entry>
       <title>Episode 0</title>
-      <link href="https://napodev.iagocavalcante.dev/assets/2016/03/22/episode0.html"/>
+      <link href="https://naopodev.iagocavalcante.dev/assets/2016/03/22/episode0.html"/>
       <updated>2016-03-22T00:00:00-03:00</updated>
-      <id>https://napodev.iagocavalcante.dev/assets/2016/03/22/episode0</id>
+      <id>https://naopodev.iagocavalcante.dev/assets/2016/03/22/episode0</id>
       <content type="html">&lt;!--- 
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://your.fancy.hosting/episodes/episode0.mp3&quot;,&quot;ogg&quot;:&quot;http://your.fancy.hosting/episodes/episode0.ogg&quot;,&quot;m4a&quot;:&quot;http://your.fancy.hosting/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;https://napodev.iagocavalcante.dev/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;https://napodev.iagocavalcante.dev/assets/2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://your.fancy.hosting/episodes/episode0.mp3&quot;,&quot;ogg&quot;:&quot;http://your.fancy.hosting/episodes/episode0.ogg&quot;,&quot;m4a&quot;:&quot;http://your.fancy.hosting/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;https://naopodev.iagocavalcante.dev/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;https://naopodev.iagocavalcante.dev/assets/2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://napodev.iagocavalcante.dev/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://naopodev.iagocavalcante.dev/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
@@ -41,21 +41,21 @@ It is only necessary for hosting remotely.
           <link rel="enclosure" 
                 type="audio/mpeg" 
                 length="1234567" 
-                href="https://napodev.iagocavalcante.dev/episodes/episode0.mp3"/> 
+                href="https://naopodev.iagocavalcante.dev/episodes/episode0.mp3"/> 
         
       
         
           <link rel="enclosure" 
                 type="audio/ogg; codecs=vorbis" 
                 length="2345678" 
-                href="https://napodev.iagocavalcante.dev/episodes/episode0.ogg"/> 
+                href="https://naopodev.iagocavalcante.dev/episodes/episode0.ogg"/> 
         
       
         
           <link rel="enclosure" 
                 type="audio/mp4a-latm" 
                 length="3456789" 
-                href="https://napodev.iagocavalcante.dev/episodes/episode0.m4a"/> 
+                href="https://naopodev.iagocavalcante.dev/episodes/episode0.m4a"/> 
         
       
       
@@ -63,19 +63,19 @@ It is only necessary for hosting remotely.
   
     <entry>
       <title>Episode 0</title>
-      <link href="https://napodev.iagocavalcante.dev/2016/03/22/episode0.html"/>
+      <link href="https://naopodev.iagocavalcante.dev/2016/03/22/episode0.html"/>
       <updated>2016-03-22T00:00:00-03:00</updated>
-      <id>https://napodev.iagocavalcante.dev/2016/03/22/episode0</id>
+      <id>https://naopodev.iagocavalcante.dev/2016/03/22/episode0</id>
       <content type="html">&lt;!--- 
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
 --&gt;
 
 &lt;script&gt;
-  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://your.fancy.hosting/episodes/episode0.mp3&quot;,&quot;ogg&quot;:&quot;http://your.fancy.hosting/episodes/episode0.ogg&quot;,&quot;m4a&quot;:&quot;http://your.fancy.hosting/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;https://napodev.iagocavalcante.dev/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;https://napodev.iagocavalcante.dev/2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
+  window.playerConfiguration = {&quot;options&quot;:{&quot;theme&quot;:&quot;default&quot;,&quot;startPanel&quot;:&quot;ChapterMarks&quot;},&quot;extensions&quot;:{&quot;ChapterMarks&quot;:{},&quot;EpisodeInfo&quot;:{},&quot;Playlist&quot;:{}},&quot;title&quot;:null,&quot;episode&quot;:{&quot;media&quot;:{&quot;mp3&quot;:&quot;http://your.fancy.hosting/episodes/episode0.mp3&quot;,&quot;ogg&quot;:&quot;http://your.fancy.hosting/episodes/episode0.ogg&quot;,&quot;m4a&quot;:&quot;http://your.fancy.hosting/episodes/episode0.m4a&quot;},&quot;coverUrl&quot;:&quot;https://naopodev.iagocavalcante.dev/img/logo-360x360.png&quot;,&quot;title&quot;:&quot;Episode 0&quot;,&quot;subtitle&quot;:&quot;Getting Started Is Never Easy&quot;,&quot;url&quot;:&quot;https://naopodev.iagocavalcante.dev/2016/03/22/episode0.html&quot;,&quot;description&quot;:null,&quot;chaptermarks&quot;:[{&quot;start&quot;:&quot;00:00:00.000 &quot;,&quot;title&quot;:&quot;Intro.&quot;},{&quot;start&quot;:&quot;00:00:01.000 &quot;,&quot;title&quot;:&quot;... Shoubidoubidoo ...&quot;},{&quot;start&quot;:&quot;00:00:02.000 &quot;,&quot;title&quot;:&quot;Outro.&quot;}]}}
 &lt;/script&gt;
 
-&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://napodev.iagocavalcante.dev/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
+&lt;script class=&quot;podigee-podcast-player&quot; data-configuration=&quot;playerConfiguration&quot; src=&quot;https://naopodev.iagocavalcante.dev/podigee-player/javascripts/podigee-podcast-player.js&quot;&gt;
 &lt;/script&gt;
 
 &lt;h2 id=&quot;show-notes-and-links&quot;&gt;Show Notes and Links&lt;/h2&gt;
@@ -90,21 +90,21 @@ It is only necessary for hosting remotely.
           <link rel="enclosure" 
                 type="audio/mpeg" 
                 length="1234567" 
-                href="https://napodev.iagocavalcante.dev/episodes/episode0.mp3"/> 
+                href="https://naopodev.iagocavalcante.dev/episodes/episode0.mp3"/> 
         
       
         
           <link rel="enclosure" 
                 type="audio/ogg; codecs=vorbis" 
                 length="2345678" 
-                href="https://napodev.iagocavalcante.dev/episodes/episode0.ogg"/> 
+                href="https://naopodev.iagocavalcante.dev/episodes/episode0.ogg"/> 
         
       
         
           <link rel="enclosure" 
                 type="audio/mp4a-latm" 
                 length="3456789" 
-                href="https://napodev.iagocavalcante.dev/episodes/episode0.m4a"/> 
+                href="https://naopodev.iagocavalcante.dev/episodes/episode0.m4a"/> 
         
       
       

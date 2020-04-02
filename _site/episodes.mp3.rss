@@ -9,18 +9,18 @@
 
   <channel>
     <title>Octopod</title>
-    <link>https://napodev.iagocavalcante.dev</link>
-    <atom:link href="https://napodev.iagocavalcante.dev/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
-    <atom:link href="https://napodev.iagocavalcante.dev/episodes.mp3.rss" rel="first" type="application/rss+xml" />
-    <atom:link href="https://napodev.iagocavalcante.dev/episodes.mp3.rss" rel="last" type="application/rss+xml" />
+    <link>https://naopodev.iagocavalcante.dev</link>
+    <atom:link href="https://naopodev.iagocavalcante.dev/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
+    <atom:link href="https://naopodev.iagocavalcante.dev/episodes.mp3.rss" rel="first" type="application/rss+xml" />
+    <atom:link href="https://naopodev.iagocavalcante.dev/episodes.mp3.rss" rel="last" type="application/rss+xml" />
     
     
 
-    <atom:link rel="alternate" href="https://napodev.iagocavalcante.dev/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
-<atom:link rel="alternate" href="https://napodev.iagocavalcante.dev/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+    <atom:link rel="alternate" href="https://naopodev.iagocavalcante.dev/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+<atom:link rel="alternate" href="https://naopodev.iagocavalcante.dev/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
     <description>My super duper cool podcast.
 </description>
-    <lastBuildDate>Thu, 02 Apr 2020 00:43:37 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2020 01:06:16 -0300</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.9.15</generator>
 
@@ -28,7 +28,7 @@
 </itunes:summary>
     <itunes:author>Uncle Octopod</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://napodev.iagocavalcante.dev/img/logo-itunes.jpg" />
+    <itunes:image href="https://naopodev.iagocavalcante.dev/img/logo-itunes.jpg" />
     <itunes:owner>
       <itunes:name>Uncle Octopod</itunes:name>
       <itunes:email>octopod@example.com</itunes:email>
@@ -39,21 +39,21 @@
     <itunes:keywords>octopod, podcast, magic</itunes:keywords>
     <image>
       <title>Octopod</title>
-      <url>https://napodev.iagocavalcante.dev/img/logo-itunes.jpg</url>
-      <link>https://napodev.iagocavalcante.dev</link>
+      <url>https://naopodev.iagocavalcante.dev/img/logo-itunes.jpg</url>
+      <link>https://naopodev.iagocavalcante.dev</link>
     </image>
     
     <itunes:category text="Technology" />
     <item>
             <title>Episode 0 - Getting Started Is Never Easy</title>
-            <link>https://napodev.iagocavalcante.dev/assets/2016/03/22/episode0.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://napodev.iagocavalcante.dev/players/episode0"/>
-            <comments>https://napodev.iagocavalcante.dev/assets/2016/03/22/episode0.html#disqus_thread</comments>
+            <link>https://naopodev.iagocavalcante.dev/assets/2016/03/22/episode0.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://naopodev.iagocavalcante.dev/players/episode0"/>
+            <comments>https://naopodev.iagocavalcante.dev/assets/2016/03/22/episode0.html#disqus_thread</comments>
             <pubDate>Tue, 22 Mar 2016 00:00:00 -0300</pubDate>
             
             <category><![CDATA[assets]]></category>
             
-            <guid isPermaLink="false">https://napodev.iagocavalcante.dev/assets/2016/03/22/episode0.html</guid>
+            <guid isPermaLink="false">https://naopodev.iagocavalcante.dev/assets/2016/03/22/episode0.html</guid>
             <description><![CDATA[<!--- 
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.
@@ -97,12 +97,12 @@ It is only necessary for hosting remotely.
               
             </psc:chapters></item><item>
             <title>Episode 0 - Getting Started Is Never Easy</title>
-            <link>https://napodev.iagocavalcante.dev/2016/03/22/episode0.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="https://napodev.iagocavalcante.dev/players/episode0"/>
-            <comments>https://napodev.iagocavalcante.dev/2016/03/22/episode0.html#disqus_thread</comments>
+            <link>https://naopodev.iagocavalcante.dev/2016/03/22/episode0.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="https://naopodev.iagocavalcante.dev/players/episode0"/>
+            <comments>https://naopodev.iagocavalcante.dev/2016/03/22/episode0.html#disqus_thread</comments>
             <pubDate>Tue, 22 Mar 2016 00:00:00 -0300</pubDate>
             
-            <guid isPermaLink="false">https://napodev.iagocavalcante.dev/2016/03/22/episode0.html</guid>
+            <guid isPermaLink="false">https://naopodev.iagocavalcante.dev/2016/03/22/episode0.html</guid>
             <description><![CDATA[<!--- 
 The filesize block above can be deleted, if your audio files are hosted within the episodes directory.
 It is only necessary for hosting remotely.

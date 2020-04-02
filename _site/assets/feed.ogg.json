@@ -1,23 +1,23 @@
 {"version": "https://jsonfeed.org/version/1",
  "title": "Octopod",
- "home_page_url": "https://napodev.iagocavalcante.dev/",
- "feed_url": "https://napodev.iagocavalcante.dev/feed.json",
+ "home_page_url": "https://naopodev.iagocavalcante.dev/",
+ "feed_url": "https://naopodev.iagocavalcante.dev/feed.json",
  "description": "My super duper cool podcast.",
  "user_comment": "My super duper cool podcast.",
- "icon": "https://napodev.iagocavalcante.dev/apple-touch-icon-precomposed.png",
- "favicon": "https://napodev.iagocavalcante.dev/favicon.ico",
+ "icon": "https://naopodev.iagocavalcante.dev/apple-touch-icon-precomposed.png",
+ "favicon": "https://naopodev.iagocavalcante.dev/favicon.ico",
  "expired": false,
  "author": {
    "name": "Uncle Octopod",
    "url": "http://your.fancy.hosting/"
  },
  "items": [
-   {"id": "94cb3db8",
+   {"id": "c3a38dac",
     "title": "Episode 0",
     "summary": "",
     "content_text": "Show Notes and Links  Well this is the place for the Show Notes.  Send Feedback either in the Github Repo or at the Twitter account @AuaUffCode.",
-    "content_html": "<!--- The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"http://your.fancy.hosting/episodes/episode0.mp3\",\"ogg\":\"http://your.fancy.hosting/episodes/episode0.ogg\",\"m4a\":\"http://your.fancy.hosting/episodes/episode0.m4a\"},\"coverUrl\":\"https://napodev.iagocavalcante.dev/img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"https://napodev.iagocavalcante.dev/assets/2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://napodev.iagocavalcante.dev/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
-    "url": "https://napodev.iagocavalcante.dev/assets/2016/03/22/episode0.html",
+    "content_html": "<!--- The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"http://your.fancy.hosting/episodes/episode0.mp3\",\"ogg\":\"http://your.fancy.hosting/episodes/episode0.ogg\",\"m4a\":\"http://your.fancy.hosting/episodes/episode0.m4a\"},\"coverUrl\":\"https://naopodev.iagocavalcante.dev/img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"https://naopodev.iagocavalcante.dev/assets/2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://naopodev.iagocavalcante.dev/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
+    "url": "https://naopodev.iagocavalcante.dev/assets/2016/03/22/episode0.html",
     "attachments": [
       {"url": "http://your.fancy.hosting/episodes/episode0.ogg",
        "mime_type": "audio/mpeg","size_in_bytes": "2345678"}
@@ -28,12 +28,12 @@
       "name": "Arne and Stefan"
     }
   },
-   {"id": "400f173e",
+   {"id": "d82a8ac0",
     "title": "Episode 0",
     "summary": "",
     "content_text": "Show Notes and Links  Well this is the place for the Show Notes.  Send Feedback either in the Github Repo or at the Twitter account @AuaUffCode.",
-    "content_html": "<!--- The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"http://your.fancy.hosting/episodes/episode0.mp3\",\"ogg\":\"http://your.fancy.hosting/episodes/episode0.ogg\",\"m4a\":\"http://your.fancy.hosting/episodes/episode0.m4a\"},\"coverUrl\":\"https://napodev.iagocavalcante.dev/img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"https://napodev.iagocavalcante.dev/2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://napodev.iagocavalcante.dev/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
-    "url": "https://napodev.iagocavalcante.dev/2016/03/22/episode0.html",
+    "content_html": "<!--- The filesize block above can be deleted, if your audio files are hosted within the episodes directory.It is only necessary for hosting remotely.--><script>  window.playerConfiguration = {\"options\":{\"theme\":\"default\",\"startPanel\":\"ChapterMarks\"},\"extensions\":{\"ChapterMarks\":{},\"EpisodeInfo\":{},\"Playlist\":{}},\"title\":null,\"episode\":{\"media\":{\"mp3\":\"http://your.fancy.hosting/episodes/episode0.mp3\",\"ogg\":\"http://your.fancy.hosting/episodes/episode0.ogg\",\"m4a\":\"http://your.fancy.hosting/episodes/episode0.m4a\"},\"coverUrl\":\"https://naopodev.iagocavalcante.dev/img/logo-360x360.png\",\"title\":\"Episode 0\",\"subtitle\":\"Getting Started Is Never Easy\",\"url\":\"https://naopodev.iagocavalcante.dev/2016/03/22/episode0.html\",\"description\":null,\"chaptermarks\":[{\"start\":\"00:00:00.000 \",\"title\":\"Intro.\"},{\"start\":\"00:00:01.000 \",\"title\":\"... Shoubidoubidoo ...\"},{\"start\":\"00:00:02.000 \",\"title\":\"Outro.\"}]}}</script><script class=\"podigee-podcast-player\" data-configuration=\"playerConfiguration\" src=\"https://naopodev.iagocavalcante.dev/podigee-player/javascripts/podigee-podcast-player.js\"></script><h2 id=\"show-notes-and-links\">Show Notes and Links</h2><ul>  <li>Well this is the place for the Show Notes.</li>  <li>Send Feedback either in the <a href=\"https://github.com/haslinger/jekyll-octopod\">Github Repo</a> or at the Twitter account <a href=\"http://twitter.com/@AuaUffCode\">@AuaUffCode</a>.</li></ul>",
+    "url": "https://naopodev.iagocavalcante.dev/2016/03/22/episode0.html",
     "attachments": [
       {"url": "http://your.fancy.hosting/episodes/episode0.ogg",
        "mime_type": "audio/mpeg","size_in_bytes": "2345678"}
